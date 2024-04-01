@@ -1,9 +1,20 @@
 .service-section{
-    background-color: darkgrey;
+    text-align: center;
+   
 }
 p{
     color: teal;
 }
 div{
+    
+}
+.service-one{
     text-align: center;
+    display:inline-block;
+    width: 20%;
+
+}
+.service-one-heading{
+    color:royalblue;
+
 }
